@@ -8,3 +8,7 @@ git remote add origin https://github.com/daniel-2010/rocketfy.git
 git remote -v
 git commit -m "Last Version"
 git push -u origin master
+
+Adicionar e remover novos remotes:
+git remote add rocketfy https://github.com/daniel-2010/rocketfy.git
+git remote rm rocketfy
