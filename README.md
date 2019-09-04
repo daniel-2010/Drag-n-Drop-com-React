@@ -1,3 +1,4 @@
+<h1>Drag n' Drop com React</h1>
 <p>Projeto desenvolvido com o foco de aplicar o recurso <b>drag n' drop</b> da biblioteca React DND (https://react-dnd.github.io/react-dnd/). Desenvolvido com React.js</p>
 
 *Crédito: Recriando Pipefy do zero (com drag n' drop) | Diego Fernandes
